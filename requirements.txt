@@ -9,4 +9,5 @@ pytorch
 torchvision
 torchaudio
 accelerate
+unidecode
 transformers[torch]
