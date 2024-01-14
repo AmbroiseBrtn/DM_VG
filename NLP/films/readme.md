@@ -1,0 +1,3 @@
+Le notebook `analyse_opinion_films.ipynb` contient l'ensemble des analyses de la classification d'opinion sur les films du dossier movies.
+
+N'étant pas sûr de si ma prediction avec le modèle entrainé sur les reviews de films serait licite, j'ai décidé d'ajouter la prediction par un des modèles de ML classique. Finalement, j'ai laissé également la prediction par BERT fine tuné car le résultat sur le test m'intéresse !
