@@ -1,0 +1,12 @@
+nltk
+optuna
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+pytorch
+torchvision
+torchaudio
+accelerate
+transformers[torch]
